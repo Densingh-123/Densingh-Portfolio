@@ -1,3 +1,7 @@
-Project Demo : https://ornate-manatee-af7564.netlify.app/ 
-
-![screencapture-localhost-3000-2023-06-18-11_36_52](https://github.com/sunil9813/Alamin-Portfolio/assets/67497228/630614e8-2e6d-4e27-887d-3a0eac1ed8ca)
+![c1](https://github.com/user-attachments/assets/7f95a2ab-dda8-48ac-9716-b8fc00cc9fbe)
+![c2](https://github.com/user-attachments/assets/7a2def75-315e-463c-84f3-2e4f15b64620)
+![c3](https://github.com/user-attachments/assets/7f5bca5a-e0ae-4b97-9d2d-3f9ffbe0a192)
+![c4](https://github.com/user-attachments/assets/7bf38600-3cdc-46a7-858a-dc31ff743d7b)
+![c5](https://github.com/user-attachments/assets/d23ff3e2-fef6-4248-af58-f04ae4837a37)
+![c6](https://github.com/user-attachments/assets/34fc7f46-19f0-4ca2-8bf4-f5a82539588c)
+![c7](https://github.com/user-attachments/assets/299d13ec-8148-42ba-b8f1-81c186247e34)
